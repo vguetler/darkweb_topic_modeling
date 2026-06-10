@@ -50,17 +50,18 @@ Briefly describe your analytical pipeline. Example:
 
 ## 📈 Key findings
 
-Summarize 3–5 bullet points of what you found. Write for a policy/practitioner audience, not just a technical one.
-
-- Finding 1 — e.g., "Topic cluster X dominated [X]% of posts and was associated with operational planning language"
-- Finding 2 - The topic model for the Ansar1 Dark Web forum consisted of 80 topics and two communities or clusters (in red and blue). The topics labeled ‘Mujahideen Media’ and ‘Scriptures’ were the most prevalent in this forum.
-- Finding 3 - The Gawaher forum has 67 topics and two communities; the largest community in green topics is primarily about religion, Islamic scripture, the Bible vs. Quran, converting to Islam, and non-Muslims
+- The topic model for the Ansar1 Dark Web forum consisted of 80 topics and two communities or clusters (in red and blue). The topics labeled ‘Mujahideen Media’ and ‘Scriptures’ were the most prevalent in this forum.
+- The Gawaher forum has 67 topics and two communities; the largest community in green topics is primarily about religion, Islamic scripture, the Bible vs. Quran, converting to Islam, and non-Muslims
 - The Islamic Network forum resulted in 72 labeled topics and 3 topic clusters. The topics in green discussed Guantanamo Bay and how prisoners are tortured and interrogated in that prison. The topics in red/orange were a mix of electronics sold on the
 Dark Web, jihad, religion, the discussion on nationalism, investments, and money, advertisements selling fake documents, and IDs.
 
 - In sum, some forum members sympathize with and support terrorist organizations. Religion is the most prevalent topic in all forums. Other topics include terrorism, terror attacks, support for the Mujahideen fighters, relationships, selling electronics, and fake identity cards. Implications for counterterrorism include topic modeling in real-time classification, removal of online terrorist content, and monitoring religious forums, as terrorist groups use religion to justify their goals and recruitment.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1973dffb-4e2b-467e-85e6-2fe9c18efaf7" />
+
+> Figure 1: Ansar1 Dark Web Forum Topic Network. 80 Nodes represent topics, and 3160 Edges represent the co-occurrence
+of topics within the documents. Node size indicates the importance of each topic in the network. Color represents the
+community membership, weighted & undirected network.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3644955d-b876-443a-843f-4d16d485a1b4" />
 
