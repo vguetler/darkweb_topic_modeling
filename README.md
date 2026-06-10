@@ -12,8 +12,14 @@ Write 2–4 sentences here for a non-technical reader:
 - **Why** does it matter? (policy implications, threat intelligence value, research contribution)
 - **What** did you find or build?
 
-Example:
-> This project analyzes [X] posts from [forum/source] collected between [dates]. Using LDA topic modeling and social network analysis, it identifies the dominant discourse themes and key network actors. Findings were presented at PyCon 2024 and inform ongoing work on computational methods for cyber threat detection.
+
+> This project analyzes three Dark Web forums of terrorist groups and their supporters accessed from the University of Arizona Artificial Intelligence Lab’s Dark Web Forums. The forums include Ansar1, an English language
+forum with 29,492 posts and 11,244 threads, 382 members between 12/8/2008 and 1/20/2010. The second forum, Gawaher, is an English-language Islamic forum dedicated to discussing the Islamic world and Islamic issues. Some of the forum
+members sympathize with radical Islamic groups. This forum entails 372,499 posts and 53,235 threads made by 9,269 members between 10/24/2004 and 6/7/2012. The Islamic Network forum is dedicated to various topics of interest to Muslims, ranging
+from theology and world events. Some members sympathize with and support terrorists. This forum has 91,874 posts and 13,995 threads created by 2,082 members between 6/9/2004 and 11/10/2010.
+
+> Using natural language processing techniques, specifically latent Dirichlet allocation (LDA) topic models (Blei, 2012; Blei et al., 2003) and social/topic network analysis (Walter & Ophir, 2019), it identifies the dominant discourse themes and key network actors. Findings were presented at PyCon 2024 and inform ongoing work on computational methods for cyber threat detection.
+
 
 ---
 
