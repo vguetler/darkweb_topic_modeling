@@ -1,6 +1,6 @@
 
-# Ansar and islamic network topic models - 2024
-# use cleaned data from python script folder diss script
+# Ansar and Islamic Network topic models - 2024
+
 
 set.seed(1001)
 
