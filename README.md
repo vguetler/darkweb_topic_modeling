@@ -65,8 +65,13 @@ community membership, weighted & undirected network.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3644955d-b876-443a-843f-4d16d485a1b4" />
 
+Figure 2: Gawaher Dark Web Forum Topic Network. The topic network has 67 Nodes representing topics, and 2211 Edges
+represent the co-occurrence of topics within the documents. 
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b874aee2-8e41-4583-a0b2-23f0797bc4b7" />
 
+> Figure 3: Islamic Network Dark Web Forum Topic Network. Topic network with 72 Nodes representing topics, 2556 Edges
+representing the co-occurrence of topics within the documents. 
 
 ---
 
