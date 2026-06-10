@@ -77,7 +77,7 @@ representing the co-occurrence of topics within the documents.
 
 ## 📄 Related publications & presentations
 
-- [Conference presentation] — *PyCon US*, 2023, American Society of Criminology, 2022
+- Conference presentation — *PyCon US*, 2023, American Society of Criminology, 2022
 
 ---
 
