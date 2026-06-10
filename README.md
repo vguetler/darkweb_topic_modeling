@@ -50,9 +50,9 @@ Briefly describe your analytical pipeline. Example:
 
 ## 📈 Key findings
 
-- The topic model for the Ansar1 Dark Web forum consisted of 80 topics and two communities or clusters (in red and blue). The topics labeled ‘Mujahideen Media’ and ‘Scriptures’ were the most prevalent in this forum.
-- The Gawaher forum has 67 topics and two communities; the largest community in green topics is primarily about religion, Islamic scripture, the Bible vs. Quran, converting to Islam, and non-Muslims
-- The Islamic Network forum resulted in 72 labeled topics and 3 topic clusters. The topics in green discussed Guantanamo Bay and how prisoners are tortured and interrogated in that prison. The topics in red/orange were a mix of electronics sold on the
+- The topic model for the Ansar1 Dark Web forum consisted of 80 topics and two communities or clusters (in red and blue, fig. 1). The topics labeled ‘Mujahideen Media’ and ‘Scriptures’ were the most prevalent in this forum.
+- The Gawaher forum has 67 topics and two communities (fig. 2); the largest community in green topics is primarily about religion, Islamic scripture, the Bible vs. Quran, converting to Islam, and non-Muslims
+- The Islamic Network forum resulted in 72 labeled topics and 3 topic clusters (Fig. 3). The topics in green discussed Guantanamo Bay and how prisoners are tortured and interrogated in that prison. The topics in red/orange were a mix of electronics sold on the
 Dark Web, jihad, religion, the discussion on nationalism, investments, and money, advertisements selling fake documents, and IDs.
 
 - In sum, some forum members sympathize with and support terrorist organizations. Religion is the most prevalent topic in all forums. Other topics include terrorism, terror attacks, support for the Mujahideen fighters, relationships, selling electronics, and fake identity cards. Implications for counterterrorism include topic modeling in real-time classification, removal of online terrorist content, and monitoring religious forums, as terrorist groups use religion to justify their goals and recruitment.
@@ -65,7 +65,7 @@ community membership, weighted & undirected network.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3644955d-b876-443a-843f-4d16d485a1b4" />
 
-Figure 2: Gawaher Dark Web Forum Topic Network. The topic network has 67 Nodes representing topics, and 2211 Edges
+> Figure 2: Gawaher Dark Web Forum Topic Network. The topic network has 67 Nodes representing topics, and 2211 Edges
 represent the co-occurrence of topics within the documents. 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b874aee2-8e41-4583-a0b2-23f0797bc4b7" />
@@ -77,8 +77,7 @@ representing the co-occurrence of topics within the documents.
 
 ## 📄 Related publications & presentations
 
-- [Paper title] — *Venue*, Year — [link if available]
-- [Conference presentation] — *Conference*, Year
+- [Conference presentation] — *PyCon US*, 2023, American Society of Criminology, 2022
 
 ---
 
